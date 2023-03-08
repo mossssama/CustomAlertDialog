@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="dialog_theme" parent="android:style/Theme.Dialog">
+        <item name="android:windowMinWidthMajor">10%</item>
+        <item name="android:windowMinWidthMinor">40%</item>
+        <item name="android:background">@android:color/white</item>
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+</resources>
